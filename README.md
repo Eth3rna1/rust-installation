@@ -23,6 +23,7 @@ pacman -S base-devel
     4. For the `Default host triple` type `x86_64-pc-windows-gnu`
     5. Press `1` to select `Proceed with installation`
 
+<br/>
 > By now, the rust toolchain should be installed, run `rustc --version` to check if the installation was successful. If not, try closing the command prompt and reopening it.
 >
 > If not successful, try looking at this YouTube video: https://www.youtube.com/watch?v=92HoSWgsx-4
